@@ -47,6 +47,13 @@
 	<div class="watch-section"><img src="images/watch.png" /></div>
 </div>
 
+<!-- Page footer -->
+        <footer class="row">
+          <p class="col-12 text-black text-center tm-copyright-text">
+            Copyright &copy; 2021 Aodevsolutions App. 
+            Designed by <a href="https://aodevsolutions.com/" class="tm-copyright-link">AODS</a>
+          </p>
+</footer>
 
 </body>
 </html>
