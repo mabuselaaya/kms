@@ -29,7 +29,7 @@
 			<li id="instagram"><a href="https://www.instagram.com/khwezi.morningstar/"><i class="fa fa-Instagram"></i></a></li>
 		</ul>
 		<ul class="info">
-			<li><i class="fa fa-phone-square"></i>(061) 467 4257</li>
+			<li><i class="fa fa-phone-square"></i>(079) 840 7847</li>
 			<li><i class="fa fa-map-marker"></i>Gauteng, South Africa</li>
 			<li><i class="fa fa-envelope"></i><a href="mailto:khwezi.ramela@gmail.com">khwezi.ramela@gmail.com</a></li>
 		</ul>
