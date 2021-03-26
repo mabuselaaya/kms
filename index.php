@@ -41,7 +41,7 @@
 				<li id="instagram"><a href="https://www.instagram.com/khwezi.morningstar/"><i class="fa fa-instagram"></i></a></li>
 			</ul>
 		</div>
-		          <p class="col-12 text-black text-center tm-copyright-text">
+		          <p class="text-black text-center tm-copyright-text">
             Copyright &copy; 2021 Aodevsolutions App. 
             Designed by <a href="https://aodevsolutions.com/" class="tm-copyright-link">AODS</a>
           </p>
